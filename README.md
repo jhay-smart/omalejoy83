@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omalejoy83
 - 👀 I’m interested in meeting new people and working together
-- 🌱 I’m currently learning Fluter and Dart
+- 🌱 I’m currently learning Html, CSS, Javascript and ReactJs
 - 💞️ I’m looking to collaborate 
 
 
